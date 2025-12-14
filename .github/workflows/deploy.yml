@@ -6,8 +6,8 @@ on :
       - main
     
 permissions:
-  content : read
-  page : write
+  contents : read
+  pages : write
   id-token : write
 
 concurrency :
