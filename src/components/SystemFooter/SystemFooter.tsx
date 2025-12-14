@@ -62,7 +62,7 @@ export default function SystemFooter() {
   </a>
 
   <a
-    href="https://github.com/your-org"
+    href="https://shreyas-bk24.github.io/anvesha/#/docs"
     target="_blank"
     rel="noreferrer"
     style={{
