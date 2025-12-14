@@ -30,7 +30,7 @@ export default function TimelineThread() {
 
       {/* NODES */}
       <div className="timeline-nodes">
-        {threads.map((thread, i) =>
+        {threads.map(thread =>
           thread.points.map((p, idx) => (
             <div
   key={`${thread.id}-${idx}`}

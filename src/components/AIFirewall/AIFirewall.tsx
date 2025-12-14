@@ -1,4 +1,3 @@
-import { useMotionValue } from "framer-motion";
 import CanvasRoot from "../../webgl/CanvasRoot";
 import FirewallScene from "../../webgl/FirewallScene";
 import { useScrollIntensity } from "../../hooks/useScrollIntensity";
